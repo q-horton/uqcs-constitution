@@ -230,10 +230,12 @@ the membership shall consider at a General Meeting whether that person's members
 16.1 The following business must be transacted at every Annual General Meeting:  
 * the confirmation of the Minutes of the previous Annual General Meeting, and of the Minutes of any Special General Meetings that occurred since the previous Annual General Meeting;  
 * the receiving of the statement of income and expenditure, assets and liabilities for the last financial year prepared by the Treasurer;  
-* the receiving of reports from the President and Secretary;  
+* the receiving of reports from the officers;  
 * the receiving of the auditor's report on the financial affairs of the Society for the last financial year;  
 * the presenting of the audited statement to the meeting for adoption; and  
 * the election of members of the Management Committee.
+
+16.2 A draft of the officers' reports must be distributed to the members at least seventy-two (72) hours before the AGM commences.
 
 ## 17 Special General Meeting
 
@@ -259,13 +261,19 @@ the membership shall consider at a General Meeting whether that person's members
 ## 20 Procedure at General Meeting
 
 20.1 Unless otherwise provided by these rules, at every General Meeting:  
-* the President (or nominee for the meeting) shall preside as chairperson;  
+* the President (or nominee for the meeting) when the General Meeting commences shall preside as chairperson;  
 * if there is no President, or if the President is not present within fifteen (15) minutes after the time appointed for the holding of the meeting, or if the President has given notice of an inability to attend the meeting, or if the President is unwilling to act, or if there shall be an election for the position of President at the General Meeting, then the members present shall elect a member of the Society to be chairperson of the meeting;  
 * every question, matter or resolution arising at the General Meeting shall be decided by a vote, and shall pass with a simple majority;  
 * every resolution must be minuted;  
-* the minutes of the General Meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the General Meeting;  
-* proxies that follow the University of Queensland Union regulations will be allowed; and  
-* proxies that follow a method authorised by the Management Committee, specified in the notice of the General Meeting, and ratified by the members of the Society at the General Meeting will be allowed.
+* the minutes of the General Meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the General Meeting;
+
+20.2 Proxy voting on behalf of an absent member will be allowed at a General Meeting if:
+* the proxy follows the University of Queensland Union regulations; or  
+* the proxy follows a method authorised by the Management Committee, specified in the notice of the General Meeting, and ratified by the members of the Society at the General Meeting.
+
+20.3 No person can hold more than two (2) proxy votes at any General Meeting.
+
+20.4 A person may only participate in a General Meeting if they have been a member of the Society for at least fourteen (14) days at the time of a General Meeting.
 
 ## 21 Alteration of Rules
 

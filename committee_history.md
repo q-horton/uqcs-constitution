@@ -160,10 +160,29 @@
 - Industry Officer: Harsha Varma
 - Media Officer: Bahareh Khiabani
 - General Committee:
-  - Aayushi Patel
+  - Aayushi Patel - Terminated under section 9.5 of the UQCS constitution 25 February 2024
   - Amy Hu
   - Anshul Dadhwal
   - John Kim - Resigned 6th Oct 2023
-  - Mehr Chawla
+  - Mehr Chawla - Terminated under section 9.5 of the UQCS constitution 25 February 2024
   - Roxie Cunningham
   - Thomas Horsey
+  - Tom Cameron - Elected by SGM 7th March 2024 - Terminated under section 9.5 of the UQCS constitution 30 July 2024
+  - Alexander Burow - Elected by SGM 7th March 2024 
+  - Rohan Kollambalath - Elected by SGM 7th March 2024 - Terminated under section 9.5 of the UQCS constitution 30 July 2024
+
+## 2025 
+- President: Jia-Jie (Jackie) Dinh Chang
+- Secretary: Amy Hu
+- Treasurer: Richard Yu
+- Events Officer: Jesse Wang 
+- Industry Officer: Masham Siddiqui 
+- Media Officer: Anshul Dadhwal
+- General Committee: 
+  - Alexander Burow 
+  - Roxie Cunningham 
+  - Bahareh Khiabani 
+  - Harsha Varma 
+  - Zain Al-Saffi 
+  - Yuvraj Fowdar
+  - David Long 
